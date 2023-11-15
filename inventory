@@ -1,0 +1,20 @@
+[nagios_centos]
+192.168.56.111 ansible_user=berja
+
+[elk_centos]
+192.168.56.111 ansible_user=berja
+
+[elk_ubuntu]
+192.168.56.116 ansible_user=berja
+
+[igp_centos]
+192.168.56.111 ansible_user=berja
+
+[igp_ubuntu]
+192.168.56.116 ansible_user=berja
+
+[ls_centos]
+192.168.56.111 ansible_user=berja
+
+[ls_ubuntu]
+192.168.56.116 ansible_user=berja
